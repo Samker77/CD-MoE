@@ -1,0 +1,5 @@
+Model,Acc_2,F1_score,Acc_7,MAE,Loss
+emoe,"(np.float64(84.76), np.float64(0.0))","(np.float64(84.78), np.float64(0.0))","(np.float64(46.21), np.float64(0.0))","(np.float64(72.48), np.float64(0.0))","(np.float64(72.38), np.float64(0.0))"
+emoe,"(np.float64(84.45), np.float64(0.0))","(np.float64(84.44), np.float64(0.0))","(np.float64(45.48), np.float64(0.0))","(np.float64(72.46), np.float64(0.0))","(np.float64(72.38), np.float64(0.0))"
+emoe,"(np.float64(85.37), np.float64(0.0))","(np.float64(85.35), np.float64(0.0))","(np.float64(47.23), np.float64(0.0))","(np.float64(69.52), np.float64(0.0))","(np.float64(69.54), np.float64(0.0))"
+emoe,"(np.float64(84.3), np.float64(0.0))","(np.float64(84.32), np.float64(0.0))","(np.float64(45.63), np.float64(0.0))","(np.float64(72.94), np.float64(0.0))","(np.float64(72.9), np.float64(0.0))"
